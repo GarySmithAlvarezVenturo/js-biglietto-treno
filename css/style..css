@@ -1,0 +1,21 @@
+body {
+    background-color: #0D6EFD !important;
+}
+
+.container {
+    height: 100vh;
+    background-image: url(../img/background-with-an-airplane-and-a-trail-in-the-blue-sky-vector.jpeg);
+    background-size: cover;
+}
+
+.card {
+    width: 45rem !important;
+}
+
+.card-title {
+    margin-bottom: 2rem !important;
+}
+
+.card-text {
+    margin-bottom: 2rem !important;
+}
